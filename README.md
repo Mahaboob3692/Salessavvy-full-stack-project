@@ -87,7 +87,24 @@ SalesSavy is a full-stack e-commerce website that enables customers to browse an
    ```
 
 ## 📸 Screenshots
-(Add relevant screenshots of your project UI here)
+# Home Page For Customer 
+![Screenshot 2025-03-26 145627](https://github.com/user-attachments/assets/57d6a437-f5d5-47a2-89c6-18146e8ecfe8)
+
+# Shopping Cart
+![Screenshot 2025-03-26 145658](https://github.com/user-attachments/assets/2472cdbd-91cd-4092-8d92-8d6ba8dd360a)
+
+# Payment Methods (dummy payment with the razorpay)
+![Screenshot 2025-03-26 145729](https://github.com/user-attachments/assets/9730b078-cc4e-43d9-8c8d-87c39ccd60dd)
+1. you can choose any payment methods u want
+
+# Home Page for Admin
+1. Login Page
+![Screenshot 2025-03-26 152021](https://github.com/user-attachments/assets/a4297db8-0bc8-49cc-bbe9-2431dc196047)
+
+2. Admin Dashboard
+![Screenshot 2025-03-26 152103](https://github.com/user-attachments/assets/4ce2c351-dd92-4530-b584-442f047896be)
+
+
 
 ## 🎯 Future Enhancements
 - Payment gateway integration
